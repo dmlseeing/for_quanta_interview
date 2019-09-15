@@ -10,8 +10,8 @@ i. required attribute
 ii. new value in H5 for type attribute (email)  
 - questions & solutions:  
 i. use only HTML to achieve warnings for null value in a form  
-use 'required' attribute, such as <input type='text' required>  
+use 'required' attribute, such as `<input type='text' required>`  
 ii. how to modify value of 'required' attribute  
-use 'type' attribute and give it a value of 'email', like <input type='required' required>  
+use 'type' attribute and give it a value of 'email', like `<input type='required' required>`  
 - final result: reveal in chrome browser  
 ![image](https://github.com/dmlseeing/for_quanta_interview/blob/master/image/%E9%A1%B5%E9%9D%A2%E6%95%88%E6%9E%9C.png)  
