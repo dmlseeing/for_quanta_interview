@@ -10,9 +10,9 @@ i. required attribute  <br>
 ii. new value in H5 for type attribute (email)  <br>
 - questions & solutions:  <br>
 i. use only HTML to achieve warnings for null value in a form  <br>
-use 'required' attribute, such as `<input type='text' required>`  <br>
+use 'required' attribute, such as `input type='text' required`  <br>
 ii. how to modify value of 'required' attribute  <br>
-use 'type' attribute and give it a value of 'email', like `<input type='required' required>`  <br>
+use 'type' attribute and give it a value of 'email', like `input type='required' required`  <br>
 - final result:   <br>
 achieve code in 'thi_first_hw.html'  <br>
 reveal in chrome browser  <br>
