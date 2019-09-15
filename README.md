@@ -16,4 +16,4 @@ use 'type' attribute and give it a value of 'email', like `<input type='required
 - final result:   
 achieve code in 'thi_first_hw.html'  
 reveal in chrome browser  
-![image](https://github.com/dmlseeing/for_quanta_interview/blob/master/image/%E9%A1%B5%E9%9D%A2%E6%95%88%E6%9E%9C.png)  
+<img src='https://github.com/dmlseeing/for_quanta_interview/blob/master/image/%E9%A1%B5%E9%9D%A2%E6%95%88%E6%9E%9C.png' width=350px height=200px>   
