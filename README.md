@@ -4,6 +4,7 @@ This is about learning process for quanta interview.
 1. 前端作业1-简单的html表单  
 // 直接在要换行的语句最后打上2个空格。  
 - target: make a simple webpage  
+`<img src='https://github.com/dmlseeing/for_quanta_interview/blob/master/image/first_homework.png' width=50px height=50px>`
 ![image](https://github.com/dmlseeing/for_quanta_interview/blob/master/image/first_homework.png)  
 - key point:  
 i. required attribute  
